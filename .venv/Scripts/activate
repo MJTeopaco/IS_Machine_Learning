@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="E:\PROGRAMMING\Repositories\regression\Predicting-Concrete-Compressive-Strength-Using-Random-Forest-Regression\.venv"
+VIRTUAL_ENV="D:\Programming\Repositories\case studies\IS_Machine_Learning\.venv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
